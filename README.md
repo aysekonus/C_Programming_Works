@@ -23,3 +23,4 @@ Programlama öğrenirken C dili ile yaptığım temel algoritma çalışmalarım
 20. bas harfi büyütme
 21. hesap makinası
 22. Özel üçgen kontrolü yapan program
+23. 23. Öğrenci Kayıt Sistemi Projesi
